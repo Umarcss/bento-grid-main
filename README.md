@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Screenshot
 
-<img width="1920" height="936" alt="screencapture-127-0-0-1-5500-bento-grid-main-bento-grid-main-2025-10-26-17_54_30" src="https://github.com/user-attachments/assets/3d19726b-da97-4701-8cfe-e473740c579b" />
+<img width="1920" height="936" alt="bento-grid-screenshot" src="assets/images/preview.jpg" />
 
 
 ## My Process
