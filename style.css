@@ -16,7 +16,6 @@
 body {
     font-family: 'DM Sans', sans-serif;
     font-size: 18px;
-    font-weight: 500;
     background-color: var(--white);
     color: var(--black);
     margin: 0;
